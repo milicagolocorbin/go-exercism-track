@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("Go Exercism Track")
+	fmt.Println("Learning Exercises")
 }
